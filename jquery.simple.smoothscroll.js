@@ -54,5 +54,5 @@
             top = $(this).scrollTop();
     });
     
-    };
+    }; 
 })( jQuery );
